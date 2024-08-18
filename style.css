@@ -1,11 +1,15 @@
 body {
     margin: 0px;
 }
+
+/*
+    One
+*/
 .one {
     background-color: #1f2937;
     display: flex;
     flex-direction: column;
-    padding: 10px 10%;
+    padding: 10px 10% 100px 10%;
     gap: 100px
 }
 .header {
@@ -37,6 +41,11 @@ a{
 .HeroSub {
     font-size: 18px;
     color: #e5e7eb;
+}
+button {
+    background-color: #3882f6;
+    color: white;
+    border-radius: 6px;
 }
 .right {
     flex-basis: 300px;

@@ -1,11 +1,10 @@
 body {
     margin: 0px;
 }
-.header, .one { background-color: #1f2937;}
-
 .header {
     display: flex;
     justify-content: space-between;
+    
 }
 .header-logo{
     color: #f9faf8;
@@ -18,4 +17,7 @@ body {
 }
 a{
     color: #e5e7eb
+}
+.one {
+    background-color: #1f2937;
 }

@@ -58,9 +58,25 @@ img {
     display: flex;
     flex-direction: column;
     align-items: center;
+    padding: 10px 20% 100px 20%;
+    gap: 40px;
 }
 .subheader {
     font-size: 36px;
     font-weight: 900;
     color: #1f2937;
+}
+.main-2{
+    display: flex;
+}
+.illustrations {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.square {
+    height: 150px;
+    width: 150px;
+    border:#3882f6 solid;
+    border-radius: 10px;
 }

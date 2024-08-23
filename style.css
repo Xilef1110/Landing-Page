@@ -128,10 +128,22 @@ img {
     display: flex;
     justify-content: center;
     align-items: center;
-    border: solid #e5e7eb;
+    border: 2px solid #e5e7eb;
     border-radius: 6px;
     display: flex;
     justify-content: center;
     align-items: center;
     padding: 5px;
+}
+
+/*
+    Footer
+*/
+.footer {
+    color: #e5e7eb;
+    background-color: #1f2937;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50px;
 }
